@@ -1,25 +1,19 @@
-/*
- * Globals
- */
+
  * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body {
-  
-}
+/* header {
+  background: black;
+} */
 
 
 
-/*
- * Header
- */
 
  .banner-wrap {
-     /* feel free to use your own img  */
-     background-image: url(./assets/banner.jpeg);
+     background-image: url(./assets/bannerjs1.jpeg);
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
@@ -31,7 +25,7 @@ body {
      height: 100%;
      width: 100%;
      background: black;
-     opacity: 60%;
+     opacity: 70%;
      position: absolute;
      top: 0;
  }
@@ -56,4 +50,9 @@ body {
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
+}
+
+#mavoni{
+  width: 390px;
+  height: 219.44px;
 }
