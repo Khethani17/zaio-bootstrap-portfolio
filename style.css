@@ -52,7 +52,11 @@
   border-bottom-color: #fff;
 }
 
-#mavoni{
-  width: 390px;
-  height: 219.44px;
+.card-img-top {
+  height: 220px;
+  object-fit: cover;
+}
+
+.card {
+  border-radius: 0.75rem;
 }
